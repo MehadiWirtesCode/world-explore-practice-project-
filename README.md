@@ -1,1 +1,1 @@
-view project: world-explore6838.netlify.app/
+view project: http://world-explore6838.netlify.app/
