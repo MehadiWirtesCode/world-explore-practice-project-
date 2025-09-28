@@ -2,7 +2,7 @@ export const SearchError = () => {
   return (
     <div className="flex flex-col items-center justify-center w-full h-[60vh]">
       <img
-        src="/public/images/no_data.jpeg"
+        src="/images/no_data.jpeg"
         alt="No countries"
         className="w-32 h-32 mb-4"
       />

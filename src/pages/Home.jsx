@@ -19,7 +19,7 @@ export const Home =() =>{
 
                 {/* right content */}
                 <div className="w-full flex justify-center items-center lg:w-1/2">
-                    <img src="/public/images/hero_section_image.jpg" alt="hero section image"/>
+                    <img src="/images/hero_section_image.jpg" alt="hero section image"/>
                 </div>
 
             </div>
