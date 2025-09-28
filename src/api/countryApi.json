@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more than 6,800 islands, though most people live on the four largest ones."
+  },
+  {
+    "id": 2,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 213000000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 3,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 38000000,
+    "interestingFact": "Canada has the longest coastline of any country in the world, over 202,000 km."
+  },
+  {
+    "id": 4,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 109000000,
+    "interestingFact": "Egypt is home to one of the Seven Wonders of the Ancient World – the Great Pyramid of Giza."
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 25600000,
+    "interestingFact": "Australia is the only continent that is also a country."
+  },
+  {
+    "id": 6,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1410000000,
+    "interestingFact": "India has more than 2,000 distinct ethnic groups and over 1,600 languages."
+  },
+  {
+    "id": 7,
+    "name": "Italy",
+    "capital": "Rome",
+    "population": 60300000,
+    "interestingFact": "Italy has more UNESCO World Heritage Sites than any other country in the world."
+  },
+  {
+    "id": 8,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": 60000000,
+    "interestingFact": "South Africa has three capital cities: Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judicial)."
+  },
+  {
+    "id": 9,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": 126000000,
+    "interestingFact": "Mexico is home to the world's largest pyramid by volume, the Great Pyramid of Cholula."
+  },
+  {
+    "id": 10,
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": 5400000,
+    "interestingFact": "Norway experiences natural phenomena like the Midnight Sun in summer and the Northern Lights in winter."
+  }
+]
